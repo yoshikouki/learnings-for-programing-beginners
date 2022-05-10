@@ -32,6 +32,7 @@ JavaScript に入門するためのガイド
 3. JavaScript とは
    1. フロントエンドの JavaScript
    2. バックエンドの JavaScript
+   3. その他 (AltJS・ビルドツール)
 4. あなただけの入門方法がある
 5. 入門のための良さそうな教材
 6. 発展するのに良さそうな教材
@@ -69,6 +70,7 @@ JavaScript に入門するためのガイド
 3. **JavaScript とは**
    1. フロントエンドの JavaScript
    2. バックエンドの JavaScript
+   3. その他 (AltJS・ビルドツール)
 4. あなただけの入門方法がある
 5. 入門のための良さそうな教材
 6. 発展するのに良さそうな教材
@@ -202,7 +204,10 @@ clicker.addEventListener("click", () => {
 
 ---
 
-# 1. フロントエンドの JavaScript フレームワーク
+# ライブラリとフレームワーク
+
+<div class="grid grid-cols-2 gap-4">
+<div>
 
 > アプリケーションを開発するとき、その土台として機能させるソフトウェアのこと。「アプリケーションフレームワーク」とも呼ばれる。「枠組み」「骨組み」「構造」などといった意味があり、土台となるフレームワークに必要な機能を追加し、アプリケーションの開発を進めていくのが一般的。
 >
@@ -216,6 +221,16 @@ clicker.addEventListener("click", () => {
 
 https://www.otsuka-shokai.co.jp/words/framework.html
 
+</div>
+<div>
+
+<img src="library-and-framework.png" class="rounded shadow" />
+
+https://shura.design/2020/08/15/archives/2817
+
+</div>
+</div>
+
 ---
 
 # 1. フロントエンドの JavaScript ライブラリ
@@ -223,14 +238,57 @@ https://www.otsuka-shokai.co.jp/words/framework.html
 - [jQuery](https://jquery.com/)
 - [React](https://ja.reactjs.org/)
 - [Vue.js](https://jp.vuejs.org/) (本家はフレームワークと表現)
+- [Angular](https://angular.io/)
+- [Svelte](https://svelte.jp/)
+
+[Google トレンド](https://trends.google.co.jp/trends/explore?date=today%205-y&geo=JP&q=React,Vue,Angular)
 
 ---
 
 ## 2. バックエンドの JavaScript
 
+- JavaScript は一般的にブラウザで動くもの
+- その JavaScript をブラウザ外で動くようにしたランタイム (実行環境)
+  - どちらも V8 という JavaScript engine を使用している
+- [Node.js](https://nodejs.org/ja/)
+- [Deno](https://deno.land/) (TypeScript もそのまま実行してくれる)
+
+---
+
+## 3. その他 (AltJS・ビルドツール)
+
+#### AltJS
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [CoffeeScript](https://coffeescript.org/)
+
+#### ビルドツール
+
+- [Vite](https://ja.vitejs.dev/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+
+#### ネイティブアプリ
+
+- [React Native](https://reactnative.dev/) for スマホ
+- [electronJS](https://www.electronjs.org/) for PC
+
 ---
 
 # あなただけの入門方法がある
+
+<div class="grid grid-cols-2 gap-4">
+<div>
+
+</div>
+<div>
+
+<img src="library-and-framework.png" class="rounded shadow" />
+
+https://shura.design/2020/08/15/archives/2817
+
+</div>
+</div>
 
 ---
 
