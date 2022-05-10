@@ -76,7 +76,6 @@ JavaScript に入門するためのガイド
 6. 発展するのに良さそうな教材
 7. 作ってみたいものがないときの例題
 8. 聞ける人いることは恵まれているので活用しましょう
-9. 出典
 
 ---
 
@@ -88,7 +87,7 @@ JavaScript に入門するためのガイド
 
 ---
 
-# 1. フロントエンドの JavaScript
+# JavaScript とは
 
 <div class="grid grid-cols-2 gap-4">
 <div>
@@ -117,7 +116,7 @@ JavaScript に入門するためのガイド
 
 ---
 
-# 1. フロントエンドの JavaScript
+# JavaScript とは
 
 <div class="grid grid-cols-2 gap-4">
 <div>
@@ -155,7 +154,7 @@ h1 {
 
 ---
 
-# 1. フロントエンドの JavaScript
+# JavaScript とは
 
 <div class="grid grid-cols-2 gap-4">
 <div>
@@ -233,8 +232,9 @@ https://shura.design/2020/08/15/archives/2817
 
 ---
 
-# 1. フロントエンドの JavaScript ライブラリ
+# 1. フロントエンドの JavaScript
 
+- Vanilla JavaScript (素の JS)
 - [jQuery](https://jquery.com/)
 - [React](https://ja.reactjs.org/)
 - [Vue.js](https://jp.vuejs.org/) (本家はフレームワークと表現)
@@ -255,20 +255,22 @@ https://shura.design/2020/08/15/archives/2817
 
 ---
 
-## 3. その他 (AltJS・ビルドツール)
-
-#### AltJS
+## 3. その他 - AltJS
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [CoffeeScript](https://coffeescript.org/)
 
-#### ビルドツール
+---
+
+## 3. その他 - ビルドツール
 
 - [Vite](https://ja.vitejs.dev/)
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
 
-#### ネイティブアプリ
+---
+
+## 3. その他 - ネイティブアプリ
 
 - [React Native](https://reactnative.dev/) for スマホ
 - [electronJS](https://www.electronjs.org/) for PC
@@ -277,15 +279,28 @@ https://shura.design/2020/08/15/archives/2817
 
 # あなただけの入門方法がある
 
-<div class="grid grid-cols-2 gap-4">
+まず入門するゴールを明確にしましょう！
+
+- 「プログラミングを体験してみたい」
+- 「プログラミング的な思考を身に着けたい」
+- 「Google Spreadsheet を自動化したい」
+- 「サービスを作ってみたい」
+
+その後、入門方法にも得意・不得意があるので自分に合う方を選択したら良い
+
+<div class="grid grid-cols-2 gap-4 my-10">
 <div>
+
+最初から知識を体系的に身につける
+
+ex) 体系的な入門書、良質なネット情報など
 
 </div>
 <div>
 
-<img src="library-and-framework.png" class="rounded shadow" />
+実践しつつ、必要な知識を身に着けていく
 
-https://shura.design/2020/08/15/archives/2817
+ex) ワークショップ、サンプルアプリ制作、個人サービス開発など
 
 </div>
 </div>
@@ -294,18 +309,65 @@ https://shura.design/2020/08/15/archives/2817
 
 # 入門のための良さそうな教材
 
+- [Progate](https://prog-8.com/)
+- [MDN web docs](https://developer.mozilla.org/ja/docs/Learn)
+- [JavaScript Primer](https://jsprimer.net/)
+
+無料なものをピックアップ
+
+※ 全部やる必要ないし、読んでいて面白くないなら続かないので別の方法に切り替えてもいいかも
+
+やっていて面白いことをやりましょう！
+
 ---
 
 # 発展するのに良さそうな教材
 
+- [web.dev](https://web.dev/)
+- [roadmap.sh](https://roadmap.sh/)
+- 各ライブラリ・フレームワークのチュートリアル or ドキュメント
+- [競技プログラミング (リンクは問題 10 選の記事)](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
+
+※ 全部やる必要ないし、読んでいて面白くないなら続かないので別の方法に切り替えてもいいかも
+
+やっていて面白いことをやりましょう！
+
 ---
 
-# 作ってみたいものがないときの例題
+# 自分で思いついたものを作ってみる
+
+- 生活のちょっとした「めんどくさい」は制作物のヒントになる
+- いつも使っているサービスの「こういうのあったら良いのにな」というのもいい
+  - 毎朝、桜島の灰が来そうか LINE で連絡する
+
+---
+
+# 作ってみたいものを思いつかないときの例題
+
+---
+
+<div class="grid grid-cols-3 gap-4">
+<div>
+
+<Tweet id="1522539189958369280"/>
+
+</div>
+<div>
+
+<Tweet id="1522539197566885889"/>
+
+</div>
+<div>
+
+<Tweet id="1522539204391043075"/>
+
+</div>
+</div>
 
 ---
 
 # 聞ける人いることは恵まれているので活用しましょう
 
----
-
-# 出典
+- エンジニアリングを知っている人のコミュニティに属していることは実は恵まれている
+- 「反応ないかもしれんけどまあ一旦やってみっか」くらいの気持ちで質問してみましょう！
+- 私に力になれそうなことがありましたら気軽にお声がけください〜
