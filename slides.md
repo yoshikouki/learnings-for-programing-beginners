@@ -289,6 +289,8 @@ ORM (Object-Relational Mapping)
 - [Prisma](https://www.prisma.io/)
 - [TypeORM](https://typeorm.io/)
 
+− [Deno のフロントエンド開発の動向【2022 年春】](https://zenn.dev/uki00a/articles/frontend-development-in-deno-2022-spring)
+
 ---
 
 ## 3. その他 - AltJS
