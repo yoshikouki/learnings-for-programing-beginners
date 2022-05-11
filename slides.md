@@ -267,6 +267,8 @@ https://shura.design/2020/08/15/archives/2817
 
 [Google トレンド](https://trends.google.co.jp/trends/explore?date=today%205-y&geo=JP&q=Next.js,Nuxt.js)
 
+[海外最新アンケートを見てみましょう (Netflix, AWS, Cloudflare)](https://tsh.io/state-of-frontend/)
+
 ---
 
 ## 2. バックエンドの JavaScript
