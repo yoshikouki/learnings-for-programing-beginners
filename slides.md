@@ -252,6 +252,14 @@ https://shura.design/2020/08/15/archives/2817
 
 ---
 
+# フロントエンドとバックエンド
+
+![フロントエンドとバックエンド](https://medium-company.com/wp-content/uploads/2020/08/front-end.png)
+
+https://medium-company.com/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%81%A8%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AE%E9%81%95%E3%81%84/
+
+---
+
 # 1. フロントエンドの JavaScript
 
 - Vanilla JavaScript (素の JS)
