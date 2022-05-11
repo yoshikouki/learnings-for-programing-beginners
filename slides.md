@@ -32,13 +32,12 @@ JavaScript に入門するためのガイド
 3. JavaScript とは
    1. フロントエンドの JavaScript
    2. バックエンドの JavaScript
-   3. その他 (AltJS・ビルドツール)
+   3. その他 (AltJS・ビルドツール・ネイティブアプリ)
 4. あなただけの入門方法がある
 5. 入門のための良さそうな教材
 6. 発展するのに良さそうな教材
 7. 作ってみたいものがないときの例題
 8. 聞ける人いることは恵まれているので活用しましょう
-9. 出典
 
 ---
 
@@ -70,7 +69,7 @@ JavaScript に入門するためのガイド
 3. **JavaScript とは**
    1. フロントエンドの JavaScript
    2. バックエンドの JavaScript
-   3. その他 (AltJS・ビルドツール)
+   3. その他 (AltJS・ビルドツール・ネイティブアプリ)
 4. あなただけの入門方法がある
 5. 入門のための良さそうな教材
 6. 発展するのに良さそうな教材
@@ -203,6 +202,22 @@ clicker.addEventListener("click", () => {
 
 ---
 
+# 目次
+
+1. 自己紹介
+2. 本日のゴール
+3. JavaScript とは
+   1. **フロントエンドの JavaScript**
+   2. **バックエンドの JavaScript**
+   3. **その他 (AltJS・ビルドツール・ネイティブアプリ)**
+4. あなただけの入門方法がある
+5. 入門のための良さそうな教材
+6. 発展するのに良さそうな教材
+7. 作ってみたいものがないときの例題
+8. 聞ける人いることは恵まれているので活用しましょう
+
+---
+
 # ライブラリとフレームワーク
 
 <div class="grid grid-cols-2 gap-4">
@@ -245,6 +260,15 @@ https://shura.design/2020/08/15/archives/2817
 
 ---
 
+# 1. フロントエンドの JavaScript フレームワーク
+
+- [Next.js](https://nextjs.org/) for React
+- [Nuxt.js](https://nuxtjs.org/) for Vue
+
+[Google トレンド](https://trends.google.co.jp/trends/explore?date=today%205-y&geo=JP&q=Next.js,Nuxt.js)
+
+---
+
 ## 2. バックエンドの JavaScript
 
 - JavaScript は一般的にブラウザで動くもの
@@ -252,6 +276,16 @@ https://shura.design/2020/08/15/archives/2817
   - どちらも V8 という JavaScript engine を使用している
 - [Node.js](https://nodejs.org/ja/)
 - [Deno](https://deno.land/) (TypeScript もそのまま実行してくれる)
+
+フレームワーク
+
+- [Express](https://expressjs.com/ja/) for Node.js
+- [Nest.js](https://nestjs.com/) for Node.js
+
+ORM (Object-Relational Mapping)
+
+- [Prisma](https://www.prisma.io/)
+- [TypeORM](https://typeorm.io/)
 
 ---
 
@@ -274,6 +308,22 @@ https://shura.design/2020/08/15/archives/2817
 
 - [React Native](https://reactnative.dev/) for スマホ
 - [electronJS](https://www.electronjs.org/) for PC
+
+---
+
+# 目次
+
+1. 自己紹介
+2. 本日のゴール
+3. JavaScript とは
+   1. フロントエンドの JavaScript
+   2. バックエンドの JavaScript
+   3. その他 (AltJS・ビルドツール・ネイティブアプリ)
+4. **あなただけの入門方法がある**
+5. **入門のための良さそうな教材**
+6. **発展するのに良さそうな教材**
+7. 作ってみたいものがないときの例題
+8. 聞ける人いることは恵まれているので活用しましょう
 
 ---
 
@@ -334,6 +384,22 @@ ex) ワークショップ、サンプルアプリ制作、個人サービス開�
 
 ---
 
+# 目次
+
+1. 自己紹介
+2. 本日のゴール
+3. JavaScript とは
+   1. フロントエンドの JavaScript
+   2. バックエンドの JavaScript
+   3. その他 (AltJS・ビルドツール・ネイティブアプリ)
+4. あなただけの入門方法がある
+5. 入門のための良さそうな教材
+6. 発展するのに良さそうな教材
+7. **作ってみたいものがないときの例題**
+8. 聞ける人いることは恵まれているので活用しましょう
+
+---
+
 # 自分で思いついたものを作ってみる
 
 - 生活のちょっとした「めんどくさい」は制作物のヒントになる
@@ -363,6 +429,22 @@ ex) ワークショップ、サンプルアプリ制作、個人サービス開�
 
 </div>
 </div>
+
+---
+
+# 目次
+
+1. 自己紹介
+2. 本日のゴール
+3. JavaScript とは
+   1. フロントエンドの JavaScript
+   2. バックエンドの JavaScript
+   3. その他 (AltJS・ビルドツール・ネイティブアプリ)
+4. あなただけの入門方法がある
+5. 入門のための良さそうな教材
+6. 発展するのに良さそうな教材
+7. 作ってみたいものがないときの例題
+8. **聞ける人いることは恵まれているので活用しましょう**
 
 ---
 
